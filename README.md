@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 * 💬 I hope to share with you anything about python😉
 * 📫 How to reach me: 707956456@qq.com🎯
 * ⚡ Fun fact: I :heart: Programming. 
+* 🌈 I :heart: Life
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDDDanny&hide=contribs,prs&theme=vue&show_icons=true&line_height=31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-I :heart: Life🌈
