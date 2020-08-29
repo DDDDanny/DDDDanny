@@ -1,7 +1,7 @@
 ### Hi There~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 ##### I am DDDDanny. Try to be a Soul Tester👻
-![avatar](D&G.png)
+![avatar](https://github.com/DDDDanny/DDDDanny/blob/master/D%26G.png)
 <!--
 **DDDDanny/DDDDanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
