@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-* 🔭 I’m currently working on making a interesting ToolHub😜
+* 🔭 I’m currently working on making a interesting ToolHub and MintBlue TestPlatform😜
 * 🌱 I’m currently learning how to be an interesting tester😈  
 * 💬 I hope to share with you anything about python😉
 * 📫 How to reach me: 707956456@qq.com🎯
