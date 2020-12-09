@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: I :heart: Programming. 
 * 🌈 I :heart: Life
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDDDanny&hide=contribs,prs&theme=vue-dark&show_icons=true&line_height=30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDDDanny&hide=contribs,prs&theme=dracula&show_icons=true&line_height=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
