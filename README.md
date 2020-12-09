@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python、Django、Selenium、Flask**
 
-- 📫 How to reach me **707956456@qq.com & dxhxxx@gmail.com**
+- 📫 How to reach me **707956456@qq.com or dxhxxx@gmail.com**
 
 - ⚡ Fun fact **I ❤️ Programming.**
 
