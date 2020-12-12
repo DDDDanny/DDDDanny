@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [ToolHub](https://github.com/DDDDanny/ToolHub)
 
-- 📝 I regularly write articles on [http://rainbow66.top/](http://rainbow66.top/)
+- 📝 I regularly write articles on [https://www.mintblue.top/](https://www.mintblue.top/)
 
 - 💬 Ask me about **Python、Django、Selenium、Flask**
 
@@ -41,12 +41,6 @@ Here are some ideas to get you started:
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -56,12 +50,6 @@ Here are some ideas to get you started:
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
-  <a href="https://grafana.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a> 
