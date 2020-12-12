@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [ToolHub](https://github.com/DDDDanny/ToolHub)
 
-- 📝 I regularly write articles on [https://www.mintblue.top/](https://www.mintblue.top/)
+- 📝 I regularly write articles on [MintBlue](https://www.mintblue.top/)
 
 - 💬 Ask me about **Python、Django、Selenium、Flask**
 
