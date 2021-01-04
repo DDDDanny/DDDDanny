@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 </p>
 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDDDanny&hide=contribs,prs&theme=dracula&show_icons=true&line_height=30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDDDanny&hide=contribs,prs&theme=vue&show_icons=true&line_height=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
