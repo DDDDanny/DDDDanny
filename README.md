@@ -1,4 +1,4 @@
-### Hi There~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   
+### Hi There~ 👋 
 ### I am DDDDanny. Try to be a Soul Tester👻
 
 ![avatar](https://github.com/DDDDanny/DDDDanny/blob/master/D%26%26G.png)
