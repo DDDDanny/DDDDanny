@@ -7,22 +7,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [MintBlue-TestPlatform](https://github.com/DDDDanny/MintBlue-TestPlatform)
-
-- 🌱 I’m currently learning **Vue、Node.js、Cypress**
-
-- 🤝 I’m looking for help with [ToolHub](https://github.com/DDDDanny/ToolHub)
-
-- 📝 I regularly write articles on [MintBlue](https://www.mintblue.top/)
-
-- 💬 Ask me about **Python、Django、Selenium、Flask**
-
-- 📫 How to reach me **707956456@qq.com or dxhxxx@gmail.com**
-
-- ⚡ Fun fact **I ❤️ Programming.**
-
-- 🌈 I :heart: Life
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
