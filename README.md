@@ -1,5 +1,3 @@
-## MintBlue Profile
-
 ![avatar](https://github.com/DDDDanny/DDDDanny/blob/master/D%26%26GNew.png)
 <!--
 **DDDDanny/DDDDanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
