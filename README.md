@@ -1,15 +1,18 @@
-### Hi There~ 👋 
-### I am DDDDanny. Try to be a Soul Developer👻
+## MintBlue Profile
 
-![avatar](https://github.com/DDDDanny/DDDDanny/blob/master/D%26%26G.png)
+![avatar](https://github.com/DDDDanny/DDDDanny/blob/master/D%26%26GNew.png)
 <!--
 **DDDDanny/DDDDanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/ddddanny/ddddanny/master/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   </a>
@@ -49,6 +52,6 @@ Here are some ideas to get you started:
   <a href="hexo.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
   </a> 
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</p> -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDDDanny&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
