@@ -1,9 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DDDDanny&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DDDDanny&theme=light&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=DDDDanny&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500" alt="GitHub Streak" />
-  </picture>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DDDDanny&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j&card_width=600)](https://git.io/streak-stats)
   
   <!-- GitHub Activity Graph GitHub 活动图 -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DDDDanny&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
